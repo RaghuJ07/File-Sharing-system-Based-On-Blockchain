@@ -4,6 +4,7 @@ import { ethers } from "ethers";
 import Firstpage from "./components/Firstpage";
 import Secondpage from "./components/Secondpage";
 
+
 import "./App.css";
 import contract_data from "./components/artifacts/contracts/Upload.sol/Upload.json"
 
